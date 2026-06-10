@@ -1,4 +1,3 @@
 version: STSv1
 mode: none
-mx: industriasduero-es.correoseguro.dinaserver.com 
 max_age: 86400
