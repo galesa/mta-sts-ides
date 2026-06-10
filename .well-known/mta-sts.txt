@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mail.industriasduero.es
+mx: industriasduero-es.correoseguro.dinaserver.com 
 max_age: 86400
