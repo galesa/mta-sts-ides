@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: mail.industriasduero.es
-max_age: 2592000
+max_age: 86400
